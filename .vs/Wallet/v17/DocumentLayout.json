@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Disk C\\repos\\Wallet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\models\\dailyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\models\\dailyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\enum\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\enum\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\viewmodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\viewmodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\wallet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\wallet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|d:\\disk c\\repos\\wallet\\wallet\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965ED392-C7CB-449E-8696-2A179264D295}|Wallet\\Wallet.csproj|solutionrelative:wallet\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Enum\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Wallet\\Enum\\TransactionType.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Enum\\TransactionType.cs",
+              "RelativeToolTip": "Wallet\\Enum\\TransactionType.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:41:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Wallet\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Wallet\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:39:19.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DailyExpense.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Models\\DailyExpense.cs",
+              "RelativeDocumentMoniker": "Wallet\\Models\\DailyExpense.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Models\\DailyExpense.cs",
+              "RelativeToolTip": "Wallet\\Models\\DailyExpense.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:36:31.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wallet.csproj",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Wallet.csproj",
+              "RelativeDocumentMoniker": "Wallet\\Wallet.csproj",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Wallet.csproj",
+              "RelativeToolTip": "Wallet\\Wallet.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T20:53:22.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\ViewModels\\UserModel.cs",
+              "RelativeDocumentMoniker": "Wallet\\ViewModels\\UserModel.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\ViewModels\\UserModel.cs",
+              "RelativeToolTip": "Wallet\\ViewModels\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:46:48.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Wallet\\Models\\Users.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Models\\Users.cs",
+              "RelativeToolTip": "Wallet\\Models\\Users.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:46:30.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Wallet\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Wallet\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:40:12.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Disk C\\repos\\Wallet\\Wallet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wallet\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Disk C\\repos\\Wallet\\Wallet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wallet\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAiwHwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:36:43.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
